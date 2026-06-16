@@ -10,9 +10,7 @@
 2 School of Electronics & Information Engineering, Tiangong Univercity, Binshui West Road, Tianjin, 300387, China.
 3 Tianjin Key Laboratory of Optoelectronic Detection Technology & System, Tianjin, 300087, China.
 
-**Corresponding Author**: Bo Zhang
-**Contact E-mail**: tjnuzhangbo@163.com
-**Author Emails**: sishucun2023@163.com; zhangcheng@tiangong.edu.cn; wangyibo2002@139.com
+
 
 ## News
 - **2026-06-16**: We upload the model source code.
